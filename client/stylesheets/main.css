@@ -1,0 +1,15 @@
+/*****************************************************************************/
+/* main: Style */
+/*****************************************************************************/
+.main {
+}
+.red.lighten-2{
+   background-color: #1de9b6 !important;
+   color: white !important;
+}
+.page-footer{
+   bottom: 0;
+}
+.card-panel{
+   margin-bottom: 6.9%;
+}
